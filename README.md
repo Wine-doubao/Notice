@@ -76,3 +76,30 @@ vue-cli + vue-router + axios + Elementui
 ├─README.md
 ├─vue.config.js
 ```
+
+## 页面展示
+
+### 普通学生
+
+![image-20220324170528526](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170528526.png)
+
+![image-20220324170629080](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170629080.png)
+
+![image-20220324170647336](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170647336.png)
+
+![image-20220324170718492](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170718492.png)
+
+![image-20220324170733757](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170733757.png)
+
+### 组织管理员
+
+![image-20220324170804622](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170804622.png)
+
+![image-20220324170829221](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170829221.png)
+
+![image-20220324170854317](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170854317.png)
+
+![image-20220324170916692](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170916692.png)
+
+![image-20220324170945479](https://gitee.com/jolinfor/picture-bed/raw/master/img/image-20220324170945479.png)
+
